@@ -3,4 +3,10 @@ const eleven = {
   ironIgot: 1,
 };
 
+const eleven2 = {
+  ...eleven,
+  lether: 1,
+};
+
 console.log(eleven);
+console.log(eleven2);
