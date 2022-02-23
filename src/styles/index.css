@@ -1,1 +1,5 @@
 @use "global";
+
+.landing {
+  padding: 100px;
+}
