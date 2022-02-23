@@ -1,3 +1,5 @@
+import "./styles/index.css";
+
 const eleven = {
   letherStrips: 2,
   ironIgot: 1,
